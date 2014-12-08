@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/514785/5341402/fe162aac-7ef5-11e4-9432-9ade633c5597.png" width="64px" style="float:left;"> a text/file pastebin in rails
+<img src="https://raw.githubusercontent.com/hennevogel/cleaver/master/cleaver.png" width="64px" style="float:left;"> a text/file pastebin in rails
 ======================================
 Cleaver ([kle-vər](http://en.wikipedia.org/wiki/Help:IPA_for_English#Key)) a paste bin for
 text, images and files. 
